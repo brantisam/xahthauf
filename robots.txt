@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beilouphei.lukeoliff.com/sitemap.xml
